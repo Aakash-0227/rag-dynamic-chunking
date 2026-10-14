@@ -21,3 +21,7 @@ data/uploads/
 
 # IDE files
 .vscode/
+
+
+# Hide sample PDF from GitHub
+data/sample_policy.pdf
