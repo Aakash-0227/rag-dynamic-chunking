@@ -1,0 +1,23 @@
+
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+src/__pycache__/
+
+# Generated vector database
+chroma_db/
+
+# Uploaded documents
+uploaded_pdfs/
+data/uploads/
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# IDE files
+.vscode/
